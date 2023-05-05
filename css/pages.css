@@ -1,0 +1,143 @@
+body{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-color: rgb(119, 121, 238);
+    justify-content: center;
+    font-size: 25px;
+    display: flex;
+    gap: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color:white;
+    border-color: black;    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagem_me img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+.imagem_me {
+    text-align: center;
+    padding: 50px;
+
+}
+
+.projeto_web1 img{
+    height: 400px;
+    width: 600px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+.projeto_web2 img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+.projeto_web3 img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+.form_cad img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+.form_login img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+.api a{
+    text-decoration: none;
+}
+
+.api img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+.poke_console img{
+    height: 400px;
+    width: 800px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+footer {
+    background-color: rgba(18, 93, 206, 0.712);
+    height: 150px;
+    width: 100%; 
+}
+
+footer {
+padding-top: 50px;
+margin-top:40px;
+}
+
+.infos{
+    list-style: none;
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    gap: 50px;
+}
+ 
+.infos img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border-style: solid;
+}
+
+.contato{
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 400px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(18, 93, 206, 0.712);
+}
+
+.image_email img{
+    height: 80px;
+    width: 80px;
+
+
+}
